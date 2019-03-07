@@ -22,4 +22,4 @@ ball with the WASD keys.
 
 In order to play the game you have to open Framework_EGC.sln(which is located
 in the Visual Studio folder) and compile the program.The sources are located
-in the Source/BrickBreaker folder.
+in the Source/Pool folder.
